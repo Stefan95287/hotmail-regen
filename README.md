@@ -62,3 +62,8 @@ cmake --build build --config Release
 
 ---
 <sub>Indexed tags: hotmail-regen, autoreg, multi, no-captcha, accounts, email, automation, outlook, hotmail, cli, developer-tools, open-source, windows, productivity, cpp, portable, prebuilt, tools</sub>
+
+## Keywords
+
+outlook hotmail autoreg multi no-captcha accounts email automation outlook-account-gen hotmail-regen outlook-regen-tool windows portable prebuilt x64 free download
+related: outlook, hotmail, autoreg, multi, no-captcha, accounts, email, automation
